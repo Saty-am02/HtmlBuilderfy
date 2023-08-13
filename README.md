@@ -20,9 +20,13 @@ This repository contains the code for htmlBuilderfy website,genrates code in use
 
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400" alt="Laravel Logo"></a></p> 
 
-![index](https://github.com/Saty-am02/EvEBlush/assets/88832726/538a26a4-bd59-471b-935d-fa81e6e57815)
+![index](https://github.com/Saty-am02/EvEBlush/assets/88832726/538a26a4-bd59-471b-935d-fa81e6e57815
 
-![about page](https://github.com/Saty-am02/EvEBlush/assets/88832726/500f224c-0527-4304-a557-666b1bc883b8)
+)
+
+![about page](https://github.com/Saty-am02/EvEBlush/assets/88832726/500f224c-0527-4304-a557-666b1bc883b8
+
+)
 
 
 ## Contributing
