@@ -8,17 +8,19 @@ This repository contains the code for htmlBuilderfy website,genrates code in use
 
 
 ## Features
-
-- Portfolio showcasing my projects and work.
+- Html code  and  Table genrator  showcasing my projects and work.
 - About section for sharing my thoughts and experiences.
 - Contact page for getting in touch with me.
-
+- Login/Sinup page for user.
+- Html gerator section.
+- Table genrator.
+- Diffrent sections for diffrent code genration.
+  
 ## Screenshot
 
 ![index](https://github.com/Saty-am02/EvEBlush/assets/88832726/538a26a4-bd59-471b-935d-fa81e6e57815)
 
 ![about page](https://github.com/Saty-am02/EvEBlush/assets/88832726/500f224c-0527-4304-a557-666b1bc883b8)
-
 
 
 ## Contributing
