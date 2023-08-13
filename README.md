@@ -12,7 +12,7 @@ This repository contains the code for htmlBuilderfy website,genrates code in use
 - About section for sharing my thoughts and experiences.
 - Contact page for getting in touch with me.
 - Login/Sinup page for user.
-- Html gerator section.
+- Html genrator section.
 - Table genrator.
 - Diffrent sections for diffrent code genration.
   
