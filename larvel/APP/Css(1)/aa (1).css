@@ -1,0 +1,28 @@
+#card1 {
+    display: flex;
+    height: 250px;
+    justify-content: space-between;
+    margin-top: 10px;
+    background-color: black;
+    border: 10px solid #3b148b;
+    overflow: hidden;
+    color: white;
+}
+.card {
+    background-color: #fff;
+    border-radius: 0.25rem;
+    box-shadow: 0 0.5em 1em -0.125em rgb(10 10 10 / 10%), 0 0 0 1px rgb(10 10 10 / 2%);
+    /* color: #4a4a4a; */
+    max-width: 100%;
+    position: relative;
+    overflow: hidden;
+}
+.radio
+{
+left: 10vh;
+    background-color: var(--purple);
+    height: 30px;
+    color: white;
+    width: 100vw;
+  
+}

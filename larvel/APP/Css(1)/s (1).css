@@ -1,0 +1,18 @@
+
+
+ textarea.textarea1 {
+    width: 95%;
+    min-height: 50vh;
+    
+    margin-left: 25px;
+    font-family: Monaco,Consolas,monospace;
+    font-size: 12px;
+    line-height: 1.4;
+    /* border: 1px solid black; */
+    padding: 20px;
+    border-left-width: 30px;
+    /* outline-color: black; */
+    margin-bottom: 5vh;
+
+}
+
