@@ -17,8 +17,17 @@ This repository contains the code for htmlBuilderfy website,genrates code in use
 - Diffrent sections for diffrent code genration.
   
 ## Screenshot
+![indexpage](https://github.com/Saty-am02/HtmlBuilderfy/assets/88832726/94196948-a31b-4033-94bf-8b68fa3b155e)
 
+![aboutsection](https://github.com/Saty-am02/HtmlBuilderfy/assets/88832726/fbb63e21-ad75-4149-9b8a-4cb42d9cd383)
 
+![signup](https://github.com/Saty-am02/HtmlBuilderfy/assets/88832726/271d0bdc-d688-4b89-95e8-c50488f8af26)
+
+![after login](https://github.com/Saty-am02/HtmlBuilderfy/assets/88832726/d04c8ccb-262f-4f3f-9559-29bd488956f8)
+
+![htmlcodegenrator](https://github.com/Saty-am02/HtmlBuilderfy/assets/88832726/712fa2ef-4d6d-4e3b-97c1-3af144acdfde)
+
+![tablegenrator](https://github.com/Saty-am02/HtmlBuilderfy/assets/88832726/c8f1e62b-b14b-45d0-8907-da23a127e6bc)
 
 ## Contributing
 
