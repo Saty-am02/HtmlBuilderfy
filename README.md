@@ -4,16 +4,16 @@
 
 ## Overview
 
-This repository contains the code for htmlBuilderfy website,genrates code in user input and more. The website is built using [HTML, CSS, JavaScript, larvel, etc.], and it is designed to be fast, and user-friendly.
+This repository contains the code for the htmlBuilderfy website, generates code in user input and more. The website is built using [HTML, CSS, JavaScript, larvel, etc.], and it is designed to be fast, and user-friendly.
 
 
 ## Features
-- Html code  and  Table genrator  showcasing my projects and work.
+- HTML code and Table generator showcasing my projects and work.
 - About section for sharing my thoughts and experiences.
 - Contact page for getting in touch with me.
-- Login/Sinup page for user.
-- Html genrator section.
-- Table genrator.
+- Login/Signup page for the user.
+- HTML generator section.
+- Table generator.
 - Diffrent sections for diffrent code genration.
   
 ## Screenshot
